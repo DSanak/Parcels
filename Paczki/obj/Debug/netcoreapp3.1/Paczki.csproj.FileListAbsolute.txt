@@ -1,0 +1,4 @@
+D:\Projekty Visual Studio\Paczki\obj\Debug\netcoreapp3.1\Paczki.csprojAssemblyReference.cache
+D:\Projekty Visual Studio\Paczki\obj\Debug\netcoreapp3.1\Paczki.AssemblyInfoInputs.cache
+D:\Projekty Visual Studio\Paczki\obj\Debug\netcoreapp3.1\Paczki.AssemblyInfo.cs
+D:\Projekty Visual Studio\Paczki\obj\Debug\netcoreapp3.1\Paczki.csproj.CoreCompileInputs.cache
